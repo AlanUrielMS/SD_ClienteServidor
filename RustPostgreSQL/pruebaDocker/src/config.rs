@@ -1,0 +1,1 @@
+pub const DB_CONFIG: &str = "postgresql://alan_bc:password@127.0.0.1:5432/myConsultas?application_name=pruebadocker=app";

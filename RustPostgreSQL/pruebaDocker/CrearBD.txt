@@ -1,0 +1,10 @@
+CREATE TABLE reportes(
+	id serial PRIMARY KEY,
+	nombreReporte character varying(50) NOT NULL,
+	informeProblema character varying(500) NOT NULL,
+	informeSolucion character varying(500) NOT NULL,
+	revisado boolean NOT NULL,
+	corregido boolean NOT NULL,
+	fecha date NOT NULL DEFAULT CURRENT_DATE
+);
+
