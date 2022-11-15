@@ -1,1 +1,22 @@
+//Codigo para generar: nuevo rol, usuario, contraseña y base de dato a utilizar en postgres.
+
+//Creacion de nuevo rol(uriel)
+//Se asigna un numbre del rol y contraseña
+
+createuser -P -s -e uriel
+
 //
+
+
+CREATE TABLE reportes(
+	id serial PRIMARY KEY,
+	nombreReporte character varying(50) NOT NULL,
+	informeProblema character varying(500) NOT NULL,
+	informeSolucion character varying(500) NOT NULL,
+	revisado boolean NOT NULL,
+	corregido boolean NOT NULL,
+	fecha date NOT NULL DEFAULT CURRENT_DATE
+);
+
+INSERT INTO reportes(id,nombreReporte,informeProblema,informeSolucion,revisado,corregido,fecha) 
+VALUES (1, 'ReporteFallaRed01','El usuairio presenta falla de red blablabla' ,'El Fallo se soluciono mediante el cambio de la direccion ip y el cambio del pasword de blabla',true,true,'10-11-2022'); 
