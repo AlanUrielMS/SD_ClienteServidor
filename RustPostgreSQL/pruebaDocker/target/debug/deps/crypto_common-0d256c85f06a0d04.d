@@ -1,0 +1,5 @@
+/home/alanbc/Documentos/sistemas_distribuidos/arquitectura_cliente-servidor/RustPostgreSQL/pruebaDocker/target/debug/deps/crypto_common-0d256c85f06a0d04.rmeta: /home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/crypto-common-0.1.6/src/lib.rs
+
+/home/alanbc/Documentos/sistemas_distribuidos/arquitectura_cliente-servidor/RustPostgreSQL/pruebaDocker/target/debug/deps/crypto_common-0d256c85f06a0d04.d: /home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/crypto-common-0.1.6/src/lib.rs
+
+/home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/crypto-common-0.1.6/src/lib.rs:

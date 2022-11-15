@@ -1,0 +1,1 @@
+/home/alanbc/Documentos/sistemas_distribuidos/arquitectura_cliente-servidor/RustPostgreSQL/pruebaDocker/target/debug/pruebaDocker: /home/alanbc/Documentos/sistemas_distribuidos/arquitectura_cliente-servidor/RustPostgreSQL/pruebaDocker/src/main.rs
