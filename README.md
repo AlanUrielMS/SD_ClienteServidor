@@ -31,7 +31,7 @@ INSERT INTO products(name) VALUES('Sandia'),('Mango'),('Fresa');
 
 SELECT * FROM products ORDER BY name;
 
-#Docker instalación 
+## Docker instalación 
 Dado que se trabajará en algunas ocasiones remotamente, usaremos Docker, la cual facilita la migración entre diferentes sistemas y garantiza el funcionamiento íntegro, evitando cualquier tipo de posible problema de dependencia entre versiones de software de los diferentes hosts.
 
 Para su instalación seguimos las instrucciones de la página oficial https://docs.docker.com/engine/install/ubuntu/
@@ -41,7 +41,7 @@ Para la configuración nos pedira estableceer una contraseña, asi como indicar 
 
 Esto resulta muy util, porque no debemos de establecer a cada rato la instancia de postgreSQL en Docker
 
-#Código
+# Código
 
 Archivo Cargo.toml, para su funcionamiento debemos de agregar la siguientes lineas de codigo:
 [dependencies]
