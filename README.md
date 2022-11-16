@@ -1,8 +1,6 @@
 # SD_ClienteServidor
 En este repositorio se trbajará la actividad de un Sistema Cliente servidor y una base de datos.
-
-Pasos para la instalacion de POstgresql y Pgadmin:
-Se debe de seguir una serie de comandos para la 
+Se debe de seguir la siguinte serie de comandos para la correcta instalacion y desarrollo de la implementacion cliente servidor con docker y Rust.
 
 ## Comandos de instalación de Postgresql y Pgadmin
 ### intalacion Postgresql
@@ -37,7 +35,7 @@ INSERT INTO products(name) VALUES('Sandia'),('Mango'),('Fresa');
 
 SELECT * FROM products ORDER BY name;
 
-#Docker instalación 
+## Docker instalación 
 Dado que se trabajará en algunas ocasiones remotamente, usaremos Docker, la cual facilita la migración entre diferentes sistemas y garantiza el funcionamiento íntegro, evitando cualquier tipo de posible problema de dependencia entre versiones de software de los diferentes hosts.
 
 Para su instalación seguimos las instrucciones de la página oficial https://docs.docker.com/engine/install/ubuntu/
