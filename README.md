@@ -48,6 +48,4 @@ Esto resulta muy util, porque no debemos de establecer a cada rato la instancia 
 
 ## Código
 
-Archivo Cargo.toml, para su funcionamiento debemos de agregar la siguientes lineas de codigo:
-[dependencies]
-postgres="0.19.1"
+Para poder ejecutar el codigo de deben descargar ambas carpetas tanto la del cliente como la del servidor, una vez realizado esto se debe abrir una terminal por cada una y correr el comando ***cargo run*** primero en el servidor y despues en el cliente.
