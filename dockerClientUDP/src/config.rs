@@ -1,0 +1,1 @@
+pub const DB_CONFIG: &str = "postgresql://uriel:Pa553808word@127.0.0.1:5432/myconsultas?application_name=dockerclientudp=app";
