@@ -1,5 +1,4 @@
-# SD_ClienteServidor
-En este repositorio se trbajará la actividad de un Sistema CLiente servidor y una base de datos.
+
 # SD_ClienteServidor
 En este repositorio se trbajará la actividad de un Sistema Cliente servidor y una base de datos.
 Se debe de seguir la siguinte serie de comandos para la correcta instalacion y desarrollo de la implementacion cliente servidor con docker y Rust.
