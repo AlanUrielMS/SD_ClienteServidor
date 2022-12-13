@@ -1,0 +1,11 @@
+/home/alanbc/Documentos/sistemas_distribuidos/practica_cliente_servidor_rust/envio_semana_9/dockerTest/dockerClientUDP/target/debug/deps/getrandom-56f1a51e9c07988f.rmeta: /home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/lib.rs /home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/error.rs /home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/util.rs /home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/error_impls.rs /home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/util_libc.rs /home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/use_file.rs /home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/linux_android.rs
+
+/home/alanbc/Documentos/sistemas_distribuidos/practica_cliente_servidor_rust/envio_semana_9/dockerTest/dockerClientUDP/target/debug/deps/getrandom-56f1a51e9c07988f.d: /home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/lib.rs /home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/error.rs /home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/util.rs /home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/error_impls.rs /home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/util_libc.rs /home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/use_file.rs /home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/linux_android.rs
+
+/home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/lib.rs:
+/home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/error.rs:
+/home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/util.rs:
+/home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/error_impls.rs:
+/home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/util_libc.rs:
+/home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/use_file.rs:
+/home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/linux_android.rs:
